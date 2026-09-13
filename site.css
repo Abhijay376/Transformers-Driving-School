@@ -253,6 +253,7 @@ footer.site-footer{background:#0b1222;color:#94a3b8;padding:48px 0 20px;font-siz
 .wa-float svg{width:28px;height:28px}
 
 /* ---------- Modal ---------- */
+.field-error{border-color:#dc2626 !important;box-shadow:0 0 0 3px rgba(220,38,38,.15) !important}
 .modal-overlay{position:fixed;inset:0;background:rgba(15,23,42,.6);display:flex;align-items:center;justify-content:center;z-index:2000;padding:20px}
 .modal-box{background:#fff;border-radius:16px;max-width:460px;width:100%;padding:30px;position:relative;max-height:90vh;overflow-y:auto}
 .modal-close{position:absolute;top:14px;right:14px;background:var(--bg);border:none;width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:var(--navy)}
